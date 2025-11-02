@@ -61,7 +61,7 @@ chatbot/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/BharathKumar113/Chat-Botot.git
+git clone https://github.com/BharathKumar113/Chat-Bot.git
 cd Chat-Bot
 ```
 
