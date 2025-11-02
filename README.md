@@ -19,8 +19,7 @@
 
 ---
 
-## 📸 Preview
-> *(Add your screenshots or GIF demo here later)*  
+##  Preview
 
 Example:
 ```
@@ -50,9 +49,9 @@ Hi! I'm your AI bot. Let's chat!
 ## 📁 Project Structure
 ```
 chatbot/
-├── openai_bot.py          # Telegram bot using OpenAI GPT API
-├── huggingface_bot.py     # Telegram bot using Hugging Face inference API
-├── gpt4all_bot.py         # Offline Telegram bot using GPT4All
+├── bot.py          # Telegram bot using OpenAI GPT API
+├── huggingface.py     # Telegram bot using Hugging Face inference API
+├── offline_gpt.py         # Offline Telegram bot using GPT4All
 └── README.md
 ```
 
@@ -62,8 +61,8 @@ chatbot/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/chatbot.git
-cd chatbot
+git clone https://github.com/BharathKumar113/Chat-Botot.git
+cd Chat-Bot
 ```
 
 ### 2️⃣ Install Dependencies
@@ -153,7 +152,7 @@ Use `/reset` to start fresh anytime.
 ---
 
 ## 📜 License
-Licensed under the **MIT License** — free for use, modification & distribution.
+— free for use, modification & distribution.
 
 ---
 
